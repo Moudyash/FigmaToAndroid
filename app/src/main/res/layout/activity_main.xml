@@ -16,19 +16,19 @@
     android:textColor="@color/green"
     />
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="180sp"
         android:layout_height="wrap_content"
         android:text="@string/desc"
         android:textSize="18sp"
         android:textColor="@color/grey"
         android:layout_marginBottom="180dp"
-
+        android:gravity="center"
         />
 <ImageView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:src="@drawable/ic_photo"
-    android:layout_marginBottom="80dp"
+    android:layout_marginBottom="110dp"
 android:layout_marginTop="40dp"
     />
 <Button
